@@ -333,7 +333,7 @@ function drawshow1() {
             //rec4.show();
             textSize(14);
             fill(0);
-            text("info 4", 1110, 700, 250, 100);
+            text("Your internet activity can accurately predict your age, gender, where you work and when you are going to quit, probability of committing a crime, emotional stability and so much more. ", 1105, 690, 300, 100);
               }
 
 
